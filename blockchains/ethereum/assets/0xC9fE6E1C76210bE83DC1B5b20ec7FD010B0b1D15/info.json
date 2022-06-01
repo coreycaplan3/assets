@@ -2,14 +2,14 @@
     "name": "Fringe",
     "website": "https://fringe.fi/",
     "description": "Fringe is a safe place for you to invest and borrow against your holdings.",
-    "explorer": "https://etherscan.io/token/0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
+    "explorer": "https://etherscan.io/token/0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
     "type": "ERC20",
     "symbol": "FRIN",
     "decimals": 18,
     "status": "active",
-    "id": "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
+    "id": "0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
     "tags": [
-        "DeFi",
+        "defi",
         "governance"
     ],
     "links": [
@@ -31,7 +31,7 @@
         },
         {
             "name": "coingecko",
-            "url": "https://www.coingecko.com/en/coins/fringe-finance"
+            "url": "https://www.coingecko.com/coins/fringe-finance"
         }
     ]
 }
